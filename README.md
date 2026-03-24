@@ -8,5 +8,3 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cb-antony&theme=radical" />
   </a>
 <div>
-  
-![Antony's GitHub stats](https://antony-stats.vercel.app/api?username=cb-antony&show_icons=true&theme=radical)
